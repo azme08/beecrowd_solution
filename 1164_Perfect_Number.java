@@ -1,6 +1,6 @@
 # beecrowd_solution
+    
 //1164 - Perfect Number
-
 import java.util.Scanner;
 
 public class JavaApplication3 {
