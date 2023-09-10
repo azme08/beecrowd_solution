@@ -1,4 +1,4 @@
-
+#beecrowd_solution
 //1165 - Prime Number
   import java.util.Scanner;
 
